@@ -1,0 +1,1 @@
+import{S as s,aA as t}from"./index-ONpv9scJ.js";const a=a=>{const n=a.substring(a.lastIndexOf("."),a.length),r="dark"==s().mode?`${a.substring(0,a.lastIndexOf("."))}-dark`:a.substring(0,a.lastIndexOf("."));return`/tmsmedia/illustrations/${t.value}/${r}${n}`},n=s=>"/tms"+s;export{a,n as g};
